@@ -1,2 +1,2 @@
-# BD-NLP
+# WB-NLP
 Code for Natural Language Processing course.
